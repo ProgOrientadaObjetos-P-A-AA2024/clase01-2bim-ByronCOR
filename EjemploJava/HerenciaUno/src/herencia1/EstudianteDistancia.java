@@ -1,6 +1,6 @@
 
 package herencia1;
-
+/* subclase EstudianteDistancia esta heredando de superclase Estudiante xon la palabra extends*/
 public class EstudianteDistancia extends Estudiante{
     /*1.  Declarar
         numeroAsignaturas: Entero 
